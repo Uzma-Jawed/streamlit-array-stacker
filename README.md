@@ -1,3 +1,8 @@
+
+### 📸 Preview of the App
+![App Screenshot](screenshot1.png)
+
+
 ### NumPy Array Stacker (Streamlit App)
 
 This is a simple Streamlit app that takes two arrays from user input,
